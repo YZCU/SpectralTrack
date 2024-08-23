@@ -1,11 +1,11 @@
 # SpectralTrack
 
 ## 🖼Results
- ![image](/fig/1.jpg)
- ![image](/fig/2.jpg)
- ![image](/fig/3.jpg) 
- ![image](/fig/4.jpg)
- ![image](/fig/5.jpg)
+ ![image](/file/1.jpg)
+ ![image](/file/2.jpg)
+ ![image](/file/3.jpg) 
+ ![image](/file/4.jpg)
+ ![image](/file/5.jpg)
 <!--
 # SENSE
 ### 📖**Paper**
