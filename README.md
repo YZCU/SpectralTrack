@@ -4,10 +4,13 @@
  # SpectralTrack 
 ##  UPDATING ~ The PyTorch Implementation for [SpectralTrack and SpectralTrack+](https://www.sciencedirect.com/science/article/pii/S0924271624000856).
 - ♪ Hopefully something good will happen for all of us ♪
+<!---
 - Red --> Our SpectralTrack and SpectralTrack+. Blue --> Ground Truth. The Rest --> Compared Arts
+<!---
 - ![image](/fig/duck.gif)
 - ![image](/fig/leaf.gif)
 - ![image](/fig/rain.gif)
+-->
 <!---
 --------------------------------------------------------------------------------------
 :running:Keep Updating:running:: More detailed tracking results for SpectralTrack and SpectralTrack+ have been released.
