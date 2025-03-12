@@ -1,9 +1,15 @@
-## 🖼Results
- - ### 
- ![image](/file/5.jpg)
- # SpectralTrack 
-##  UPDATING ~ The PyTorch Implementation for [SpectralTrack and SpectralTrack+](https://www.sciencedirect.com/science/article/pii/S0924271624000856).
+
+ # SpectralTrack (Updating)
+## PyTorch Implementation for [SpectralTrack](https://www.sciencedirect.com/science/article/pii/S0924271624000856).
 - ♪ Hopefully something good will happen for all of us ♪
+- Visual comparisons.
+![image](/file/vis.jpg)
+- Visualization of attention maps.
+![image](/file/attn.jpg)
+- Overlap curves and tracking samples.
+![image](/file/overlap_curve.jpg)
+
+
 <!---
 - Red --> Our SpectralTrack and SpectralTrack+. Blue --> Ground Truth. The Rest --> Compared Arts
 <!---
