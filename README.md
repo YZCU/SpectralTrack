@@ -6,12 +6,12 @@
 ![image](/file/vis.jpg)
 - Visualization of attention maps.
 ![image](/file/attn.jpg)
-- Overlap curves and tracking samples.
+- Overlap curves and tracking samples. Red --> Our. Blue --> Ground Truth.
 ![image](/file/overlap_curve.jpg)
 
 
 <!---
-- Red --> Our SpectralTrack and SpectralTrack+. Blue --> Ground Truth. The Rest --> Compared Arts
+- 
 <!---
 - ![image](/fig/duck.gif)
 - ![image](/fig/leaf.gif)
