@@ -1,7 +1,5 @@
-
- # SpectralTrack (Updating)
+# SpectralTrack
 ## PyTorch Implementation for [SpectralTrack](https://www.sciencedirect.com/science/article/pii/S0924271624000856).
-- ♪ Hopefully something good will happen for all of us ♪
 - Visual comparisons.
 ![image](/file/vis.jpg)
 - Visualization of attention maps.
