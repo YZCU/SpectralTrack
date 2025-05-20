@@ -40,7 +40,7 @@ git clone https://github.com/YZCU/SpectralTrack.git
 - For evaluation, please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for more precision performance evaluation.
 - Refer to [HOTC](https://www.hsitracking.com/hot2022/) for evaluation.
 - Evaluation of the SpectralTrack and SpectralTrack+ tracker. Run `\tracker_benchmark_v1.0\perfPlot.m`
-- Relevant tracking results are provided in `SpectralTrack and SpectralTrack+\tracking_results\hotc20test`. More evaluation results are provided in a `SpectralTrack and SpectralTrack+\tracking_results`.
+- Relevant tracking results are provided in `SpectralTrack and SpectralTrack+\tracking_results\hotc20test`.
 
 :heart:  :heart:
 
