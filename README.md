@@ -16,7 +16,7 @@ The official implementation for "**Hyperspectral Video Tracking with Spectral-Sp
 Jiang He,
 Renxiang Guan,
 [Xinwang Liu](https://xinwangliu.github.io/),
-[Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html),
+[Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html)
 --------------------------------------------------------------------------------------
 
 ##  Install
