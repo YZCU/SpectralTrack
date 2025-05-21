@@ -11,6 +11,19 @@
 - Training and testing codes of [SpectralTrack](https://github.com/YZCU/SpectralTrack/blob/main/training%20and%20testing%20codes%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) and [SpectralTrack+](https://github.com/YZCU/SpectralTrack/blob/main/training%20and%20testing%20codes%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) have been released.
 - Tracking results of [SpectralTrack](https://github.com/YZCU/SpectralTrack/blob/main/rect_results%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) and [SpectralTrack+](https://github.com/YZCU/SpectralTrack/blob/main/rect_results%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) have been released.
 --------------------------------------------------------------------------------------
+| Benchmark                                 | SpectralTrack (Pre/Suc) | SpectralTrack+ (Pre/Suc)|
+| ------------------------------            | -------------------     | -------------------     |
+| [HOTC20](https://www.hsitracking.com/)   |0.954 / 0.727 | 0.954 / 0.728 |
+| [NIR23](https://www.hsitracking.com/)    |0.918 / 0.715 | 0.940 / 0.743 |
+| [RedNIR23](https://www.hsitracking.com/) |0.691 / 0.563 | 0.747 / 0.607 |
+| [VIS23](https://www.hsitracking.com/)    |0.883 / 0.681 | 0.901 / 0.695 |
+| [NIR24](https://www.hsitracking.com/)    |0.937 / 0.750 | 0.938 / 0.763 |
+| [RedNIR24](https://www.hsitracking.com/) |0.705 / 0.539 | 0.692 / 0.531 |
+| [VIS24](https://www.hsitracking.com/)    |0.726 / 0.575 | 0.711 / 0.551 |
+| [MSSOT](https://www.sciencedirect.com/science/article/pii/S0924271623002551) |0.845 / 0.560 | 0.805 / 0.545 |
+| [MSVT](https://www.sciencedirect.com/science/article/pii/S0924271621002860)  |0.975 / 0.748 | 0.963 / 0.737 |
+
+--------------------------------------------------------------------------------------
 <!--
 - Authors:
 [Yuzeng Chen](https://yzcu.github.io/),
