@@ -57,7 +57,7 @@ git clone https://github.com/YZCU/SpectralTrack.git
 ## Usage
 - Training: Please download the hyperspectral training and testing sets: [HOTC20](https://www.hsitracking.com/hot2022/), [HOTC23](https://www.hsitracking.com/hot2022/), [HOTC24](https://www.hsitracking.com/hot2022/), [MSSOT](https://github.com/Chenlulu1993/SMT), [MSVT](https://github.com/polwork/HOMG). 
 
-- Fast Training: Download the [pre-trained model](https://drive.google.com/drive/folders/189muRTkQTzAKM3JQHnh3_FzOqytvmz5d?hl=zh-cn) of SpectralTrack and SpectralTrack+. Put it into <pretrained_models>.
+- Fast Training: Download the [pre-trained model](https://drive.google.com/drive/folders/189muRTkQTzAKM3JQHnh3_FzOqytvmz5d?hl=zh-cn) of SpectralTrack and SpectralTrack+. Put it into `<pretrained_models>`.
 - Run `<tracking/0train_SpectralTrack.py>` and `<tracking/0train_SpectralTrack+.py>` to train SpectralTrack and SpectralTrack+, respectively.
 - The well-trained SpectralTrack model is put into `<output/train/yzcu/yzcu/yzcu_ep0030.pth.tar>`. SpectralTrack+-->`<output/train/yzcu/yzcu+/yzcu_ep0030.pth.tar>`.
 - We have also released the well-trained [SpectralTrack](https://drive.google.com/drive/folders/189muRTkQTzAKM3JQHnh3_FzOqytvmz5d?hl=zh-cn) and [SpectralTrack+](https://drive.google.com/drive/folders/189muRTkQTzAKM3JQHnh3_FzOqytvmz5d?hl=zh-cn) tracking models.
