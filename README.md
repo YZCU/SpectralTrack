@@ -1,4 +1,4 @@
-### [**SpectralTrack**](https://www.sciencedirect.com/science/article/)
+### [**SpectralTrack**](https://ieeexplore.ieee.org/document/11007172)
 
 The official implementation for "**Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement**", IEEE Transactions on Image Processing, 2025.
 
