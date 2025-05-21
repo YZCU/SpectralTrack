@@ -48,8 +48,7 @@ git clone https://github.com/YZCU/SpectralTrack.git
 - Testing: Run `<tracking/1test_SpectralTrack+.py>` for testing, and results are saved in `<output/results/yzcu/yzcu>`. `<tracking/1test_SpectralTrack+.py>`-->`<output/results/yzcu/yzcu+>`.
 - Evaluating: Please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for more accurate evaluation.
 - Refer to the [Hyperspectral Object Tracking Challenge](https://www.hsitracking.com/hot2022/) for detailed evaluations.
-- Evaluation of the SpectralTrack and SpectralTrack+ tracker. Run `tracker_benchmark_v1.0\perfPlot.m`
-- Relevant tracking results are provided in `SpectralTrack and SpectralTrack+\tracking_results\hotc20test`.
+- Evaluation of the SpectralTrack and SpectralTrack+ tracker. Run `<tracker_benchmark_v1.0\perfPlot.m>`
 --------------------------------------------------------------------------------------
 ## Citation
 If you find our work helpful in your research, kindly consider citing it. We appreciate your support！
