@@ -47,6 +47,20 @@ git clone https://github.com/YZCU/SpectralTrack.git
 ## Contact
 If you have any questions or suggestions, feel free to contact me.  
 Email: yzchen1006@163.com
+## Citation
+If you find our work helpful in your research, kindly consider citing it. We appreciate your support！
+```
+@ARTICLE{11007172,
+  author={Chen, Yuzeng and Yuan, Qiangqiang and Xie, Hong and Tang, Yuqi and Xiao, Yi and He, Jiang and Guan, Renxiang and Liu, Xinwang and Zhang, Liangpei},
+  journal={IEEE Transactions on Image Processing}, 
+  title={Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-1},
+  keywords={Feature extraction;Hyperspectral imaging;Photonic band gap;Foundation models;Visualization;Video tracking;Tracking;Training;Transformers;Imaging;Hyperspectral video tracking;Multi-modal video tracking;Parameter-efficient fine-tuning},
+  doi={10.1109/TIP.2025.3569479}}
 
+```
 :heart:  :heart: We sincerely appreciate the insightful feedback provided by the editors and reviewers. :heart:  :heart:
 
