@@ -6,7 +6,7 @@ The official implementation for "**Hyperspectral Video Tracking with Spectral-Sp
 
 :running:Keep updating:running::
 - Trained models of [SpectralTrack](https://pan.baidu.com) (code: yzcu) and [SpectralTrack+](https://pan.baidu.com) (code: yzcu) have been released.
-- Related tracking results [SpectralTrack+](https://pan.baidu.com)(code: yzcu) have been released.
+- Related tracking results [SpectralTrack+](https://github.com/YZCU/SpectralTrack/blob/main/rect_results%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip)(code: yzcu) have been released.
 --------------------------------------------------------------------------------------
 <!--
 - Authors:
