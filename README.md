@@ -1,3 +1,4 @@
+--------------------------------------------------------------------------------------
 ### [**SpectralTrack**](https://ieeexplore.ieee.org/document/11007172)
 
 - The official implementation for "**Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement**".
@@ -52,6 +53,7 @@ git clone https://github.com/YZCU/SpectralTrack.git
 - Refer to the [Hyperspectral Object Tracking Challenge](https://www.hsitracking.com/hot2022/) for detailed evaluations.
 - Evaluation of the SpectralTrack and SpectralTrack+ tracker. Run `<tracker_benchmark_v1.0\perfPlot.m>`
 --------------------------------------------------------------------------------------
+
 ## Citation
 - If you find our work helpful in your research, kindly consider citing it. We appreciate your support！
 ```
@@ -68,9 +70,11 @@ git clone https://github.com/YZCU/SpectralTrack.git
 
 ```
 --------------------------------------------------------------------------------------
+
 ## Contact
 - If you have any questions or suggestions, feel free to contact me.  
 - Email: yzchen1006@163.com
 
 :heart:  :heart: We sincerely appreciate the insightful feedback provided by Editors and Reviewers. :heart:  :heart:
 
+--------------------------------------------------------------------------------------
