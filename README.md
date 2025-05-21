@@ -46,7 +46,7 @@ Renxiang Guan,
 ```
 git clone https://github.com/YZCU/SpectralTrack.git
 ```
-
+--------------------------------------------------------------------------------------
 ## Environment
  > * CUDA 11.8
  > * Python 3.9.18
