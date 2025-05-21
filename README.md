@@ -8,7 +8,7 @@ The official implementation for "**Hyperspectral Video Tracking with Spectral-Sp
 - Trained models of [SpectralTrack](https://pan.baidu.com) (code: yzcu) and [SpectralTrack+](https://pan.baidu.com) (code: yzcu) have been released.
 - Related tracking results [SpectralTrack+](https://pan.baidu.com)(code: yzcu) have been released.
 --------------------------------------------------------------------------------------
-
+<!--
 - Authors:
 [Yuzeng Chen](https://yzcu.github.io/),
 [Qiangqiang Yuan](http://qqyuan.users.sgg.whu.edu.cn/),
@@ -20,6 +20,7 @@ Renxiang Guan,
 [Xinwang Liu](https://xinwangliu.github.io/),
 [Liangpei Zhang](http://www.lmars.whu.edu.cn/prof_web/zhangliangpei/rs/index.html).
 --------------------------------------------------------------------------------------
+-->
 
 <!--
 [LaSOT](https://cis.temple.edu/lasot/), [GOT-10K](http://got-10k.aitestunion.com/downloads), [COCO](http://cocodataset.org), [HOTC](https://www.hsitracking.com/hot2022/), [MSSOT](https://github.com/Chenlulu1993/SMT), [MSVT](https://github.com/polwork/HOMG), and [TrackingNet](https://tracking-net.org/#downloads).
