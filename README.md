@@ -9,7 +9,7 @@
 :running:Keep updating:running::
 - Trained models of [SpectralTrack](https://drive.google.com/drive/folders/189muRTkQTzAKM3JQHnh3_FzOqytvmz5d?hl=zh-cn) and [SpectralTrack+](https://drive.google.com/drive/folders/189muRTkQTzAKM3JQHnh3_FzOqytvmz5d?hl=zh-cn) have been released.
 - Training and testing codes of [SpectralTrack](https://github.com/YZCU/SpectralTrack/blob/main/training%20and%20testing%20codes%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) and [SpectralTrack+](https://github.com/YZCU/SpectralTrack/blob/main/training%20and%20testing%20codes%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) have been released.
-- Tracking results [SpectralTrack+](https://github.com/YZCU/SpectralTrack/blob/main/rect_results%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) have been released.
+- Tracking results of [SpectralTrack](https://github.com/YZCU/SpectralTrack/blob/main/rect_results%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) and [SpectralTrack+](https://github.com/YZCU/SpectralTrack/blob/main/rect_results%20of%20SpectralTrack%20and%20SpectralTrack%2B.zip) have been released.
 --------------------------------------------------------------------------------------
 <!--
 - Authors:
