@@ -1,6 +1,7 @@
 ### [**SpectralTrack**](https://ieeexplore.ieee.org/document/11007172)
 
-The official implementation for "**Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement**"
+- The official implementation for "**Hyperspectral Video Tracking with Spectral-Spatial Fusion and Memory Enhancement**".
+- IEEE Transactions on Image Processing, 2025.
 
 --------------------------------------------------------------------------------------
 
@@ -52,7 +53,7 @@ git clone https://github.com/YZCU/SpectralTrack.git
 - Evaluation of the SpectralTrack and SpectralTrack+ tracker. Run `<tracker_benchmark_v1.0\perfPlot.m>`
 --------------------------------------------------------------------------------------
 ## Citation
-If you find our work helpful in your research, kindly consider citing it. We appreciate your support！
+- If you find our work helpful in your research, kindly consider citing it. We appreciate your support！
 ```
 @ARTICLE{11007172,
   author={Chen, Yuzeng and Yuan, Qiangqiang and Xie, Hong and Tang, Yuqi and Xiao, Yi and He, Jiang and Guan, Renxiang and Liu, Xinwang and Zhang, Liangpei},
@@ -68,8 +69,8 @@ If you find our work helpful in your research, kindly consider citing it. We app
 ```
 --------------------------------------------------------------------------------------
 ## Contact
-If you have any questions or suggestions, feel free to contact me.  
-Email: yzchen1006@163.com
+- If you have any questions or suggestions, feel free to contact me.  
+- Email: yzchen1006@163.com
 
 :heart:  :heart: We sincerely appreciate the insightful feedback provided by Editors and Reviewers. :heart:  :heart:
 
