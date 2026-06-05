@@ -48,6 +48,8 @@ Renxiang Guan,
 [LaSOT](https://cis.temple.edu/lasot/), [GOT-10K](http://got-10k.aitestunion.com/downloads), [COCO](http://cocodataset.org), [HOTC](https://www.hsitracking.com/hot2022/), [MSSOT](https://github.com/Chenlulu1993/SMT), [MSVT](https://github.com/polwork/HOMG), and [TrackingNet](https://tracking-net.org/#downloads).
 -->
 
+<!--
+
 ##  Install
 ```
 git clone https://github.com/YZCU/SpectralTrack.git
@@ -97,3 +99,4 @@ git clone https://github.com/YZCU/SpectralTrack.git
 :heart:  :heart: We sincerely appreciate the insightful feedback provided by Editors and Reviewers. :heart:  :heart:
 
 --------------------------------------------------------------------------------------
+-->
