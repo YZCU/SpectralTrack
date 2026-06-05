@@ -68,8 +68,14 @@ git clone https://github.com/YZCU/SpectralTrack.git
 - Fast Training: Download the [pre-trained model](https://drive.google.com/drive/folders/189muRTkQTzAKM3JQHnh3_FzOqytvmz5d?hl=zh-cn) of SpectralTrack and SpectralTrack+. Put it into `<pretrained_models>`.
 - Run `<tracking/0train_SpectralTrack.py>` and `<tracking/0train_SpectralTrack+.py>` to train SpectralTrack and SpectralTrack+, respectively.
 - The well-trained SpectralTrack model is put into `<output/train/yzcu/yzcu/yzcu_ep0030.pth.tar>`. SpectralTrack+-->`<output/train/yzcu/yzcu+/yzcu_ep0030.pth.tar>`.
+
+<!--
+
 - We have also released the well-trained [SpectralTrack](https://drive.google.com/drive/folders/189muRTkQTzAKM3JQHnh3_FzOqytvmz5d?hl=zh-cn) and [SpectralTrack+](https://drive.google.com/drive/folders/189muRTkQTzAKM3JQHnh3_FzOqytvmz5d?hl=zh-cn) tracking models.
 - Testing: Run `<tracking/1test_SpectralTrack+.py>` for testing, and results are saved in `<output/results/yzcu/yzcu>`. `<tracking/1test_SpectralTrack+.py>`-->`<output/results/yzcu/yzcu+>`.
+
+<!--
+
 - Evaluating: Please download the evaluation benchmark [Toolkit](http://cvlab.hanyang.ac.kr/tracker_benchmark/) and [vlfeat](http://www.vlfeat.org/index.html) for more accurate evaluation.
 - Refer to the [Hyperspectral Object Tracking Challenge](https://www.hsitracking.com/hot2022/) for detailed evaluations.
 - Evaluation of the SpectralTrack and SpectralTrack+ tracker. Run `<tracker_benchmark_v1.0\perfPlot.m>`
